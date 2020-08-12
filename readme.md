@@ -4,7 +4,7 @@
 
 <br />
 
-## &nbsp; **Developer, Designer and Creator.**
+### &nbsp; **Developer, Designer and Creator.**
 
 > #### I love computers, I love technology and It is indeed my passion to learn.🌱
 <br />
@@ -15,7 +15,7 @@
 ### **CONNECT WITH ME:**
 
 
-[<img align="left" alt="Email Address" width="22px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/google-gmail.svg" style="margin:7px 5px; margin-left:50px;" />][gmail]
+>>>[<img align="left" alt="Email Address" width="22px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/google-gmail.svg" style="margin:7px 5px; margin-left:50px;" />][gmail]
 [<img align="left" alt="YouTube" width="20px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/stackoverflow-icon.svg" style="margin:0px 5px;" />][stackoverflow] 
 [<img align="left" alt="LinkedIn" width="22px" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" style="margin:7px 5px;" />][linkedin]
 [<img align="left" alt="Codewars" width="22px" src="https://www.codewars.com/assets/logos/logo-glyph-36-red-583450fbf586726c570cfd610c94b8f631abfd89d5c4996b4c821a770ca498f9.png" style="margin:7px 5px; background: white;" />][codewars]
