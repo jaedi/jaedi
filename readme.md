@@ -32,18 +32,18 @@
 
 ### &nbsp;&nbsp;&nbsp; Front-end:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/html-5.svg" style="margin:0 5px; margin-left:50px;"/>
-<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/css-3.svg"  style="margin:0 5px;"/>
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" style="margin:7px 5px;" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/react.svg"  style="margin:7px 5px;"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/html-5.svg" style="margin:0 5px; margin-left:50px;"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/css-3.svg"  style="margin:0 5px;"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" style="margin:7px 5px;" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/react.svg"  style="margin:7px 5px;"/>
 
 <br /> <br />
 
 
 ### &nbsp;&nbsp;&nbsp; Back-end:
 
-<img align="left" alt="NodeJS" width="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/nodejs.svg"  style="margin:7px 5px; margin-left:50px;"/>
-<img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/laravel.svg"  style="margin:7px 5px;"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="left" alt="NodeJS" width="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/nodejs.svg"  style="margin:7px 5px; margin-left:50px;"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/laravel.svg"  style="margin:7px 5px;"/>
 
 <br />
 
@@ -51,7 +51,7 @@
 
 ### &nbsp;&nbsp;&nbsp; Operating Systems:
 <img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/archlinux.svg"  style="margin:7px 5px; margin-left:50px;"/>
-<img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/microsoft-windows.svg"  style="margin:7px 5px;"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/microsoft-windows.svg"  style="margin:7px 5px;"/>
 
 
 
