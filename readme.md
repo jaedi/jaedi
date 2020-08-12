@@ -15,11 +15,11 @@
 ### **CONNECT WITH ME:**
 
 
->>>[<img align="left" alt="Email Address" width="22px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/google-gmail.svg" style="margin:7px 5px; margin-left:50px;" />][gmail]
-[<img align="left" alt="YouTube" width="20px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/stackoverflow-icon.svg" style="margin:0px 5px;" />][stackoverflow] 
-[<img align="left" alt="LinkedIn" width="22px" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" style="margin:7px 5px;" />][linkedin]
-[<img align="left" alt="Codewars" width="22px" src="https://www.codewars.com/assets/logos/logo-glyph-36-red-583450fbf586726c570cfd610c94b8f631abfd89d5c4996b4c821a770ca498f9.png" style="margin:7px 5px; background: white;" />][codewars]
-[<img align="left" alt="HackerRank" width="22px" src="https://hrcdn.net/hackerrank/assets/apple-touch-icon-precomposed-5e8e592a0a1a387a1185089d13d65637.png" style="margin:7px 5px;" />][hackerrank]
+>>>[<img align="left" alt="Email Address" width="35px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/google-gmail.svg" style="margin:7px 15px; margin-left:50px;" />][gmail]
+[<img align="left" alt="YouTube" width="28px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/stackoverflow-icon.svg" style="margin:0px 15px;" />][stackoverflow] 
+[<img align="left" alt="LinkedIn" width="32px" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" style="margin:7px 15px;" />][linkedin]
+[<img align="left" alt="Codewars" width="32px" src="https://www.codewars.com/assets/logos/logo-glyph-36-red-583450fbf586726c570cfd610c94b8f631abfd89d5c4996b4c821a770ca498f9.png" style="margin:7px 15px;" />][codewars]
+[<img align="left" alt="HackerRank" width="32px" src="https://hrcdn.net/hackerrank/assets/apple-touch-icon-precomposed-5e8e592a0a1a387a1185089d13d65637.png" style="margin:7px 15px;" />][hackerrank]
 
 <br />
 <br />
@@ -32,21 +32,23 @@
 
 ### &nbsp;&nbsp;&nbsp; Front-end:
 
->>><img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/html-5.svg" style="margin:0 5px; margin-left:50px;"/><img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/css-3.svg"  style="margin:0 5px;"/><img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" style="margin:15px 5px;" /><img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/react.svg"  style="margin:15px 5px;"/>
+>>><img align="left" alt="HTML5" width="50px" src="https://img.icons8.com/color/48/000000/html-5.png" style="margin:0 5px; margin-left:50px;"/><img align="left" alt="CSS" width="50px" src="https://img.icons8.com/color/48/000000/css3.png"  style="margin:0 5px;"/><img align="left" alt="JavaScript" width="50px" src="https://img.icons8.com/color/48/000000/javascript-logo-1.png" style="margin:0 5px;"/><img align="left" alt="React" width="50px" src="https://img.icons8.com/ultraviolet/40/000000/react.png" style="margin:0 5px;"/>
+
 
 <br /> <br />
 
 
 ### &nbsp;&nbsp;&nbsp; Back-end:
 
->>><img align="left" alt="NodeJS" width="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/nodejs.svg"  style="margin:7px 5px; margin-left:50px;"/><img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/laravel.svg"  style="margin:7px 5px;"/>
+>>><img align="left" alt="NodeJS" width="50px" src="https://img.icons8.com/color/48/000000/nodejs.png"  style="margin:0px 15px; margin-left:55px;"/><img align="left" alt="Laravel" width="50px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/laravel.svg"  style="margin:0px 15px;"/>
 
 <br />
-
+<br />
 <br />
 
 ### &nbsp;&nbsp;&nbsp; Operating Systems:
- >>><img align="left" alt="Arch Linux" width="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/archlinux.svg" style="margin:7px 5px; margin-left:50px;"/><img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/microsoft-windows.svg"  style="margin:7px 5px;"/>
+
+ >>><img align="left" alt="Arch Linux" width="50px" src="https://img.icons8.com/color/48/000000/linux.png" style="margin:0 15px; margin-left:55px;"/><img align="left" alt="Arch Linux" width="50px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/archlinux.svg" style="margin:0 15px;"/><img align="left" alt="Laravel" width="50px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/microsoft-windows.svg"  style="margin:0 15px;"/>
 
 
 
