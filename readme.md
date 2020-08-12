@@ -76,11 +76,13 @@
 
 
 
-[linkedin]: www.linkedin.com/in/jerrydi
+
 [stackoverflow]: https://stackoverflow.com/users/14090202/jaedi?tab=profile
-[gmail]: (mailto:jerrydieugenio@gmail.com)
+[gmail]: https://mail.google.com
+[linkedin]: www.linkedin.com/in/jerrydi
 [codewars]: https://www.codewars.com/users/jaedi
 [hackerrank]: https://www.hackerrank.com/jerrydieugenio
+
 
 
 
