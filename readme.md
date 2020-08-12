@@ -1,10 +1,19 @@
-# Hi there, I'm Jerry 👋
+<img align="left" alt="Email Address" width="80px" src="https://media.giphy.com/media/lrtPCNjE8Rdoky43VR/giphy.gif" style="margin:0 15px 0 0;" />
 
-## Developer, Designer and Creator.
- 
- #### I love computers, I love technology and It is indeed my passion to learn.🌱
+# Hi there, I'm Jerry 👋 
 
-### Connect with me:
+<br />
+
+## **Developer, Designer and Creator.**
+
+#### I love computers, I love technology and It is indeed my passion to learn.🌱
+<br />
+
+
+
+
+### **CONNECT WITH ME:**
+
 
 [<img align="left" alt="Email Address" width="22px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/google-gmail.svg" style="margin:7px 5px; margin-left:50px;" />][gmail]
 [<img align="left" alt="YouTube" width="20px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/stackoverflow-icon.svg" style="margin:0px 5px;" />][stackoverflow] 
@@ -13,8 +22,12 @@
 [<img align="left" alt="HackerRank" width="30px" src="https://hrcdn.net/hackerrank/assets/apple-touch-icon-precomposed-5e8e592a0a1a387a1185089d13d65637.png" style="margin:3px 5px;" />][hackerrank]
 
 <br />
+<br />
+<br />
 
-### SKILLS:
+---
+
+### **SKILLS:**
 
 
 ### &nbsp;&nbsp;&nbsp; Front-end:
@@ -36,7 +49,7 @@
 
 <br />
 
-### &nbsp;&nbsp;&nbsp; Operating System:
+### &nbsp;&nbsp;&nbsp; Operating Systems:
 <img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/archlinux.svg"  style="margin:7px 5px; margin-left:50px;"/>
 <img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/microsoft-windows.svg"  style="margin:7px 5px;"/>
 
@@ -61,7 +74,7 @@
 <br />
 <br />
 
-<img align="left" alt="jaedi's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaedi&theme=algolia&layout=compact" />
+<img align="left" alt="jaedi's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaedi&theme=algolia&layout=compact" style="margin-top:10px;" />
 
 
 
