@@ -79,7 +79,7 @@
 
 [stackoverflow]: https://stackoverflow.com/users/14090202/jaedi?tab=profile
 [gmail]: https://mail.google.com
-[linkedin]: www.linkedin.com/in/jerrydi
+[linkedin]: https://www.linkedin.com/in/jerrydi
 [codewars]: https://www.codewars.com/users/jaedi
 [hackerrank]: https://www.hackerrank.com/jerrydieugenio
 
