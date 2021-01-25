@@ -77,7 +77,7 @@
 
 
 
-[stackoverflow]: (https://stackoverflow.com/users/14090202/jaedi?tab=profile){:target="_blank"}
+[stackoverflow]: https://stackoverflow.com/users/14090202/jaedi?tab=profile{:target="_blank"}
 [gmail]: (https://mail.google.com){:target="_blank"}
 [linkedin]: (https://www.linkedin.com/in/jerrydi){:target="_blank"}
 [codewars]: (https://www.codewars.com/users/jaedi){:target="_blank"}
