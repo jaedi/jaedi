@@ -13,10 +13,6 @@
 <br />
 
 #### If you are intersted in working with me, kindly contact me. I would really love to connect with you.
-<br />
-
-
-
 
 ### **CONNECT WITH ME:**
 
@@ -24,13 +20,10 @@
 >>>[<img align="left" alt="Email Address" width="35px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/google-gmail.svg" style="margin:7px 15px; margin-left:50px;" />][gmail] 
 [<img align="left" alt="LinkedIn" width="32px" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" style="margin:7px 15px;" />][linkedin]
 
-
-<br />
-<br />
 <br />
 <br />
 
-### **PERSONAL WEBSITE:**  http://jerrydieugenio.com
+### **PERSONAL WEBSITE:**  https://jerrydieugenio.com
 
 
 
