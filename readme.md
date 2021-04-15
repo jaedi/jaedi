@@ -46,19 +46,30 @@
 
 ### &nbsp;&nbsp;&nbsp; Front-end:
 
->>><img align="left" alt="HTML5" width="50px" height="50px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/html-5.svg" style="margin:0 5px; margin-left:50px;"/><img align="left" alt="CSS" width="50px" height="50px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/css-3.svg"  style="margin:0 5px;"/><img align="left" alt="JavaScript" width="50px" height="50px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" style="margin:0 5px;"/><img align="left" alt="React" width="50px" height="50px"  src="https://img.icons8.com/ultraviolet/40/000000/react.png" style="margin:0 5px;"/>
+>>><img align="left" alt="HTML5" width="50px" height="50px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/html-5.svg" style="margin:0 5px; margin-left:50px;"/>
+<img align="left" alt="CSS" width="50px" height="50px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/css-3.svg"  style="margin:0 5px;"/>
+<img align="left" alt="JavaScript" width="50px" height="50px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" style="margin:0 5px;"/>
+<img align="left" alt="React" width="50px" height="50px"  src="https://img.icons8.com/ultraviolet/40/000000/react.png" style="margin:0 5px;"/>
+<img align="left" alt="Bootstrap" width="50px" height="50px"  src="https://raw.githubusercontent.com/gilbarbara/logos/e0babf54f7ac9127942111bf177f549b709a60be/logos/bootstrap.svg" style="margin:0 5px;"/>
+<img align="left" alt="React" width="50px" height="50px"  src="https://raw.githubusercontent.com/gilbarbara/logos/e0babf54f7ac9127942111bf177f549b709a60be/logos/sass.svg" style="margin:0 5px;"/>
 
 
-<br /> <br />
+<br /> <br /><br /> <br />
 
 
 ### &nbsp;&nbsp;&nbsp; Back-end:
 
->>> <img align="left" alt="NodeJS" width="50px" height="50px"  src="https://img.icons8.com/color/48/000000/nodejs.png"  style="margin:0px 15px; margin-left:55px;"/><img align="left" alt="Laravel" width="50px" height="50px"  src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/laravel.svg"  style="margin:0px 15px;"/><img align="left" alt="Python" width="50px" height="50px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg"  style="margin:0px 15px;"/>
+>>> <img align="left" alt="NodeJS" width="50px" height="50px"  src="https://img.icons8.com/color/48/000000/nodejs.png"  style="margin:0px 15px; margin-left:55px;"/>
+<img align="left" alt="Laravel" width="50px" height="50px"  src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/laravel.svg"  style="margin:0px 15px;"/> <img align="left" alt="Laravel" width="50px" height="50px"  src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/php.svg"  style="margin:0px 15px;"/>
+<img align="left" alt="Python" width="50px" height="50px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg"  style="margin:0px 15px;"/>
+<img align="left" alt="Python Flask" width="50px" height="50px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/flask.svg"  style="margin:0px 15px;"/>
 
 <br />
 <br />
 <br />
+<br />
+<br />
+
 
 ### &nbsp;&nbsp;&nbsp; Operating Systems:
 
