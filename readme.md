@@ -25,7 +25,7 @@
 <br />
 
 ### **PERSONAL WEBSITE:**  
-<a href="https://jerrydieugenio.com" target="_blank" style="font-size: 15px;">https://jerrydieugenio.com </a>
+<a href="https://jerrydieugenio.com" target="_blank" style="font-size: 20px;">https://jerrydieugenio.com </a>
 
 
 
