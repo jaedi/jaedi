@@ -22,6 +22,7 @@
 
 <br />
 <br />
+<br />
 
 ### **PERSONAL WEBSITE:**  https://jerrydieugenio.com
 
@@ -77,10 +78,9 @@
 <br />
 <br />
 <br />
+<br />
+<br />
 
-<br />
-<br />
-<br />
 
 
 
@@ -100,14 +100,17 @@
 <br />
 <br />
 <br />
+<br /><br /><br />
+<br /><br /><br /><br />
 
-<img align="left" alt="jaedi's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaedi&theme=algolia&layout=compact" style="margin-top:15px;" />
 
 
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jaedi)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [stackoverflow]: https://stackoverflow.com/users/14090202/jaedi?tab=profile
-[gmail]: https://mail.google.com
+[gmail]: mailto:jerrydieugenio@gmail.com
 [linkedin]: https://www.linkedin.com/in/jerrydi
 [codewars]: https://www.codewars.com/users/jaedi
 [hackerrank]: https://www.hackerrank.com/jerrydieugenio
