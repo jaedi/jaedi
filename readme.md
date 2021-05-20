@@ -1,4 +1,4 @@
-<img alt="Email Address" width="100%" src="assets/profile-v3.png" />
+<img alt="Email Address" width="100%" src="assets/profile-v4.png" />
 
 
 
