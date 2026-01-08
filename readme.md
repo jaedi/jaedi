@@ -1,120 +1,84 @@
-<img alt="Email Address" width="100%" src="assets/profile-v4.png" />
-
-
-
-
-
-
-### **Hey there, my name is JD.**
-#### A Software Developer, Designer and Creator.
-
-#### I love computers. I am passionate to discover more about what technology can do.🤓
-
-<br />
-
-#### If you are intersted in working with me, kindly contact me. I would really love to connect with you.
-
-### **CONNECT WITH ME:**
-
-
->>>[<img align="left" alt="Email Address" width="40px" height="40px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/google-gmail.svg" style="margin:7px 15px; margin-left:40px;" />][gmail] 
-[<img align="left" alt="LinkedIn" width="40px" height="40px" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" style="margin:7px 15px;" />][linkedin]
-
-<br />
-<br />
-<br />
-
-### **PERSONAL WEBSITE:**  https://jerrydieugenio.com
-
-
-
-
-<br />
-<br />
-<br />
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=30&pause=1000&color=FF3333&center=true&vCenter=true&width=435&lines=Hey+there%2C+I'm+JD;Software+Engineer;Building+Systems+That+Work" alt="Typing SVG" />
+</div>
 
 ---
 
-### **SKILLS:**
+### 👋 **About Me**
 
+I'm **Jerry Di Eugenio** (JD for short) — a Software Engineer who loves building real-world systems that solve actual problems.
 
-### &nbsp;&nbsp;&nbsp; Front-end:
+I'm passionate about creating production-ready applications that scale. From management systems to rapid MVP development, I focus on **clean code, solid architecture, and delivering value**.
 
->>><img align="left" alt="HTML5" width="40px" height="40px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/html-5.svg" style="margin:0 5px; margin-left:40px;"/>
-<img align="left" alt="CSS" width="40px" height="40px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/css-3.svg"  style="margin:0 5px;"/>
-<img align="left" alt="JavaScript" width="40px" height="40px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" style="margin:0 5px;"/>
-<img align="left" alt="React" width="40px" height="40px"  src="https://raw.githubusercontent.com/gilbarbara/logos/e0babf54f7ac9127942111bf177f549b709a60be/logos/react.svg" style="margin:0 5px;"/>
-<img align="left" alt="Bootstrap" width="40px" height="40px"  src="https://raw.githubusercontent.com/gilbarbara/logos/e0babf54f7ac9127942111bf177f549b709a60be/logos/bootstrap.svg" style="margin:0 5px;"/>
-<img align="left" alt="SASS" width="40px" height="40px"  src="https://raw.githubusercontent.com/gilbarbara/logos/e0babf54f7ac9127942111bf177f549b709a60be/logos/sass.svg" style="margin:0 5px;"/>
+💼 Most of my work is in private client repositories, but I'm always working on something new.
 
+---
 
-<br /> <br /><br /> <br />
+### 🚀 **What I've Built**
 
+**Referral System** — Multi-tier referral program with Stripe payouts and fraud prevention  
+**Inventory Management System** — Real-time control for multi-location warehouses (10K+ SKUs)  
+**School Management System** — Platform managing 500+ students with automated reports  
+**Event Organizer** — RSVP tracking with advanced attendance analytics  
+**Daily** (Mobile App) — Offline-first habit tracker for iOS & Android  
 
-### &nbsp;&nbsp;&nbsp; Back-end:
+`Laravel` `React` `Vue.js` `NuxtJS` `React Native` `MySQL` `Stripe` `AWS`
 
->>> <img align="left" alt="NodeJS" width="40px" height="40px"  src="https://img.icons8.com/color/48/000000/nodejs.png"  style="margin:0px 15px; margin-left:55px;"/>
-<img align="left" alt="Laravel" width="40px" height="40px"  src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/laravel.svg"  style="margin:0px 15px;"/> <img align="left" alt="Laravel" width="40px" height="40px"  src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/php.svg"  style="margin:0px 15px;"/>
-<img align="left" alt="Python" width="40px" height="40px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg"  style="margin:0px 15px;"/>
-<img align="left" alt="Python Flask" width="40px" height="40px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/flask.svg"  style="margin:0px 15px;"/>
+---
 
-<br />
-<br />
-<br />
-<br />
-<br />
+### 🛠️ **Tech Stack**
 
+**Frontend**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat&logo=nuxt.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
 
-### &nbsp;&nbsp;&nbsp; Operating Systems:
+**Backend**  
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
- >>><img align="left" alt="Arch Linux" width="40px" height="40px" src="https://img.icons8.com/color/48/000000/linux.png" style="margin:0 15px; margin-left:55px;"/><img align="left" alt="Arch Linux" width="40px" height="40px"  src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/archlinux.svg" style="margin:0 15px;"/><img align="left" alt="Laravel" width="40px" height="40px"  src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/microsoft-windows.svg"  style="margin:0 15px;"/>
+**Mobile**  
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
 
+**Tools & Services**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat&logo=stripe&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
+---
 
+### 📫 **Connect With Me**
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jerrydi/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:jerrydieugenio@gmail.com)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/14090202/jaedi)
+[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=flat&logo=codewars&logoColor=white)](https://www.codewars.com/users/jaedi)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/jerrydieugenio)
 
+🌐 **Portfolio:** [jerrydieugenio.com](https://jerrydieugenio.com)
 
+---
 
-<br />
-<br />
-<br />
-<br />
-<br />
+### 💡 **What I'm About**
 
+✅ **Production-Ready Code** — Writing maintainable, scalable applications  
+✅ **Real-World Solutions** — Building systems that solve actual business problems  
+✅ **Continuous Learning** — Always exploring new tech and better patterns  
+✅ **Client-Focused** — Most projects under NDA, but quality is always priority #1
 
+💼 **Open to:** Freelance Projects • Technical Consulting • Contract Work
 
+---
 
-### **DEVELOPER PLATFORMS:**
-
->>>[<img align="left" alt="YouTube" width="40px" height="40px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/stackoverflow-icon.svg" style="margin:0px 15px;" />][stackoverflow]
-[<img align="left" alt="Codewars" width="40px" height="40px" src="https://www.codewars.com/assets/logos/logo-glyph-36-red-583450fbf586726c570cfd610c94b8f631abfd89d5c4996b4c821a770ca498f9.png" style="margin:7px 15px;" />][codewars]
-[<img align="left" alt="HackerRank" width="40px" height="40px" src="https://hrcdn.net/hackerrank/assets/apple-touch-icon-precomposed-5e8e592a0a1a387a1185089d13d65637.png" style="margin:7px 15px;" />][hackerrank]
-
-<br />
-<br />
-<br />
-<br />
-
-<img align="left" alt="jaedi's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jaedi&theme=algolia&show_icons=true&hide_border=true" />
-
-<br />
-<br />
-<br />
-<br /><br /><br />
-<br /><br /><br /><br />
-
-
-
-
-[![jaedi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jaedi)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[stackoverflow]: https://stackoverflow.com/users/14090202/jaedi?tab=profile
-[gmail]: mailto:jerrydieugenio@gmail.com
-[linkedin]: https://www.linkedin.com/in/jerrydi
-[codewars]: https://www.codewars.com/users/jaedi
-[hackerrank]: https://www.hackerrank.com/jerrydieugenio
-
-
-
-
+<div align="center">
+  <i>💻 Building systems that work. One commit at a time.</i>
+</div>
