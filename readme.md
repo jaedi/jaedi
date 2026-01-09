@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=30&pause=1000&color=FF3333&center=true&vCenter=true&width=435&lines=Hey+there%2C+I'm+JD;Software+Engineer;Build+Systems+That+Work" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=30&pause=1000&color=FF3333&center=true&vCenter=true&width=435&lines=Hey+there%2C+I'm+JD;Software+Engineer;Ideas+→+Results" alt="Typing SVG" />
 </div>
 
 ---
@@ -64,7 +64,7 @@ I'm passionate about creating production-ready applications that scale. From man
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=flat&logo=codewars&logoColor=white)](https://www.codewars.com/users/jaedi)
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/jerrydieugenio)
 
-🌐 **Portfolio:** [jerrydieugenio.com](https://jerrydieugenio.com)
+🌐 **Portfolio:** [jerrydieugenio.d-projectlab.com]([https://jerrydieugenio.com](https://jerrydieugenio.d-projectlab.com/))
 
 ---
 
@@ -79,6 +79,30 @@ I'm passionate about creating production-ready applications that scale. From man
 
 ---
 
+### 🎯 **Currently Working With**
+
+**YNS Philippines Inc.** — Delivering end-to-end IT solutions, from idea validation and MVP development to custom systems, AI integration, and scalable digital platforms. Helping teams move faster with reliable, results-driven execution.
+
+🚀 [**YNS Global**](https://global.y-n-s.co.jp/)  • IT Consulting • System & Web Development • AI Solutions • Dedicated Teams • Digital Transformation
+
+What are you ready to build next? Happy to connect you with the right development team.
+
+
+---
+
+### 🌟 **Community Involvement**
+
+#### **D Project Labs** — Co-Founder
+
+An experimental space for a small group of friends to explore ideas, build side projects, and learn through hands-on programming.
+
+**Purpose:** Experiment, learn, and build together.
+
+🔗 **D Project Labs:** *Coming soon*
+
+
+---
+
 <div align="center">
-  <i>💻 Building systems that work. One commit at a time.</i>
+  <i>💻 Learning by building.</i>
 </div>
