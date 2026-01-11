@@ -98,7 +98,10 @@ An experimental space for a small group of friends to explore ideas, build side 
 
 **Purpose:** Experiment, learn, and build together.
 
-🔗 **D Project Labs:** https://d-projectlab.com/
+🔗 **D Project Labs:** 
+- Checkout our laboratory:
+  - [Exhibit D001](https://d-projectlab.com/exhibit/001)
+  - [Exhibit D002](https://d-projectlab.com/exhibit/002)
 
 
 ---
