@@ -100,8 +100,8 @@ An experimental space for a small group of friends to explore ideas, build side 
 
 🔗 **D Project Labs:** 
 - Checkout our laboratory:
-  - <a href="[https://example.com](https://d-projectlab.com/exhibit/001)" target="_blank">Exhibit D001 ↗</a>
-  - <a href="[https://example.com](https://d-projectlab.com/exhibit/002)" target="_blank">Exhibit D002 ↗</a>
+  - <a href="https://example.com](https://d-projectlab.com/exhibit/001)" target="_blank">Exhibit D001 ↗</a>
+  - <a href="https://d-projectlab.com/exhibit/002" target="_blank">Exhibit D002 ↗</a>
 
 
 ---
