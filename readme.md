@@ -64,7 +64,7 @@ I'm passionate about creating production-ready applications that scale. From man
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=flat&logo=codewars&logoColor=white)](https://www.codewars.com/users/jaedi)
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/jerrydieugenio)
 
-🌐 **Portfolio:** [jerrydieugenio.d-projectlab.com]([https://jerrydieugenio.com](https://jerrydieugenio.d-projectlab.com/))
+🌐 **Portfolio:** [jerrydieugenio.d-projectlab.com](https://jerrydieugenio.d-projectlab.com/)
 
 ---
 
@@ -92,13 +92,13 @@ What are you ready to build next? Happy to connect you with the right developmen
 
 ### 🌟 **Community Involvement**
 
-#### **D Project Labs** — Co-Founder
+#### **D Project Labs** — Creator
 
 An experimental space for a small group of friends to explore ideas, build side projects, and learn through hands-on programming.
 
 **Purpose:** Experiment, learn, and build together.
 
-🔗 **D Project Labs:** *Coming soon*
+🔗 **D Project Labs:** https://d-projectlab.com/
 
 
 ---
